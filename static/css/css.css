@@ -28,3 +28,27 @@
 #btn2,#btn3{
     margin-left: 77px;
 }
+#name{
+    font-size: 90px;
+    
+}
+#div2{
+    background-color: darkgray;
+    border-radius: 8px;
+    height: 140px;
+}
+#u{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 40px;
+    background-color: blue;
+}
+.divP{
+    background-color: green;
+    width: 16%;
+    border-radius: 8px;
+    display: inline-block;
+    padding: 40px
+}
