@@ -1,0 +1,30 @@
+#logo{
+    display: inline;
+    width: 260px;
+    margin-top: -25px;
+}
+#txt1{
+    display: inline;
+    font-size: 100px;
+}
+#div1{
+    margin-top: 40px;
+    background-color: #ccf4fc;
+    height: 150px;
+    border-radius: 8px;
+}
+#divbtn{
+    text-align: center;
+}
+#btn1,#btn2,#btn3{
+    width: 380px;
+    height: 90px;
+    margin-top: 15px;
+    font-size: 30px;
+}
+#btn1{
+    margin-left: -10px;
+}
+#btn2,#btn3{
+    margin-left: 77px;
+}

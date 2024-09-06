@@ -6,3 +6,5 @@ from django.http import HttpResponse
 
 def inicio(request):
     return render(request, 'app1/index.html')
+def electronica(request):
+    return render(request, 'app1/pag.html')
