@@ -8,5 +8,5 @@ def inicio(request):
     return render(request, 'app1/index.html')
 
 def electronica(request):
-    datos= {"menu":"Electronica"}
+    datos= {"menu":"Electronica","p1":"mac","p2":"iPhone","p3":"Playstation"}
     return render(request, 'app1/pag.html',datos)
