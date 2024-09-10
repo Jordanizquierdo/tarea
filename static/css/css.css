@@ -48,10 +48,41 @@
 }
 .divP{
     background-color: green;
-    width: 16%;
+    width: 30%;
     border-radius: 8px;
     display: inline-block;
     padding: 40px;
     text-align: center;
+    height: 300px;
     
+}
+#back{
+    margin-left: 380px;
+    width: 80px;
+}
+
+#iphone{
+    margin-top: -20px;
+}
+
+#ps5{
+    width: 300px;
+}
+#auto{
+    width: 250px;
+}
+#pelota{
+    width: 150px;
+}
+#figura{
+    width: 150px;
+}
+#pantalones{
+    width: 150px;
+}
+#chaqueta{
+    width: 40%;
+}
+#camisa{
+    width: 60%;
 }
